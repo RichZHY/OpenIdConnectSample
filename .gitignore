@@ -32,8 +32,24 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+OpenIdSample.IdentityServer4/[Dd]ebug/
+OpenIdSample.IdentityServer4/[Dd]ebugPublic/
+OpenIdSample.IdentityServer4/[Rr]elease/
+OpenIdSample.IdentityServer4/[Rr]eleases/
+OpenIdSample.IdentityServer4/x64/
+OpenIdSample.IdentityServer4/x86/
+OpenIdSample.IdentityServer4/[Ww][Ii][Nn]32/
+OpenIdSample.IdentityServer4/[Aa][Rr][Mm]/
+OpenIdSample.IdentityServer4/[Aa][Rr][Mm]64/
+OpenIdSample.IdentityServer4/bld/
+OpenIdSample.IdentityServer4/[Bb]in/
+OpenIdSample.IdentityServer4/[Oo]bj/
+OpenIdSample.IdentityServer4/[Ll]og/
+OpenIdSample.IdentityServer4/[Ll]ogs/
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+OpenIdSample.IdentityServer4/.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
