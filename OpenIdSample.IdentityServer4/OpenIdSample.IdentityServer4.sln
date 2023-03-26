@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdSample.IdentityServer4", "OpenIdSample.IdentityServer4\OpenIdSample.IdentityServer4.csproj", "{E6D974F2-F3A2-4423-8D68-5DF3CA29DFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenIdSample.IdentityServer4", "OpenIdSample.IdentityServer4\OpenIdSample.IdentityServer4.csproj", "{E6D974F2-F3A2-4423-8D68-5DF3CA29DFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdSample.WebAPI", "OpenIdSample.WebAPI\OpenIdSample.WebAPI.csproj", "{E7282870-161E-40AB-9AAA-E0FD5FE7661B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E6D974F2-F3A2-4423-8D68-5DF3CA29DFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D974F2-F3A2-4423-8D68-5DF3CA29DFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D974F2-F3A2-4423-8D68-5DF3CA29DFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7282870-161E-40AB-9AAA-E0FD5FE7661B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7282870-161E-40AB-9AAA-E0FD5FE7661B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7282870-161E-40AB-9AAA-E0FD5FE7661B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7282870-161E-40AB-9AAA-E0FD5FE7661B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
